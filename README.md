@@ -21,12 +21,8 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
      <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
 </div>
